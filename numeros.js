@@ -1,3 +1,5 @@
+const texto = "Hola";
+texto.l;
 //Ejercicio 1//
 function sumar(num1, num2) {
   return num1 + num2;
